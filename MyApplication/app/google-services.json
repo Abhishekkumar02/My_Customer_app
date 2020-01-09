@@ -1,0 +1,196 @@
+{
+  "project_info": {
+    "project_number": "786156645563",
+    "firebase_url": "https://fir-cloudmessagingprac.firebaseio.com",
+    "project_id": "fir-cloudmessagingprac",
+    "storage_bucket": "fir-cloudmessagingprac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786156645563:android:c0279e19ff2f7c3a22cd9e",
+        "android_client_info": {
+          "package_name": "com.example.pc.customerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786156645563-ub5hhq6o7fhfp0gjp4tlio44cdcthl6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.customerapp",
+            "certificate_hash": "16dc4aa7716f1fcb0ed10ced9b4d920e79e1046b"
+          }
+        },
+        {
+          "client_id": "786156645563-tfud168la2f9s44gja5evo2soou7074a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_G3UwgGtGtwk2iyqfsfoD5e84Uibj2-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786156645563-tfud168la2f9s44gja5evo2soou7074a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786156645563:android:f63db3a0136b889122cd9e",
+        "android_client_info": {
+          "package_name": "com.example.pc.customerapplatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786156645563-l9ir62tv8h382lrfju1hldvdpjmg52vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.customerapplatest",
+            "certificate_hash": "16dc4aa7716f1fcb0ed10ced9b4d920e79e1046b"
+          }
+        },
+        {
+          "client_id": "786156645563-tfud168la2f9s44gja5evo2soou7074a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_G3UwgGtGtwk2iyqfsfoD5e84Uibj2-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786156645563-tfud168la2f9s44gja5evo2soou7074a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786156645563:android:61c5479d89a192f4",
+        "android_client_info": {
+          "package_name": "com.example.pc.firebasecloudmessagingprac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786156645563-3h5cg9bga6p855g7g8pag9eda8fbi7sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.firebasecloudmessagingprac",
+            "certificate_hash": "711ba2b904c114f4c1e855d0ebed17854b2fc747"
+          }
+        },
+        {
+          "client_id": "786156645563-tfud168la2f9s44gja5evo2soou7074a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_G3UwgGtGtwk2iyqfsfoD5e84Uibj2-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786156645563-tfud168la2f9s44gja5evo2soou7074a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786156645563:android:d5f60ba5248d4f5422cd9e",
+        "android_client_info": {
+          "package_name": "com.example.pc.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786156645563-1fdkgru8083tu1h68oc65s1ie69s2tao.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.myapplication",
+            "certificate_hash": "160a1c2e2d5a692b244988c513add9029354ebde"
+          }
+        },
+        {
+          "client_id": "786156645563-tfud168la2f9s44gja5evo2soou7074a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_G3UwgGtGtwk2iyqfsfoD5e84Uibj2-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786156645563-tfud168la2f9s44gja5evo2soou7074a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786156645563:android:87b2b762af230414",
+        "android_client_info": {
+          "package_name": "com.example.pc.pushnotificationdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786156645563-s1fkap6gu8fvhmdsme4lc6ie5qdp1rnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pc.pushnotificationdemo",
+            "certificate_hash": "16dc4aa7716f1fcb0ed10ced9b4d920e79e1046b"
+          }
+        },
+        {
+          "client_id": "786156645563-tfud168la2f9s44gja5evo2soou7074a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_G3UwgGtGtwk2iyqfsfoD5e84Uibj2-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786156645563-tfud168la2f9s44gja5evo2soou7074a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

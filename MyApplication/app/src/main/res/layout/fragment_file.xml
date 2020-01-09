@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fileFragment">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:textSize="18sp"
+            android:paddingBottom="5sp"
+            android:layout_width="match_parent"
+            android:textColor="@color/bluebarry"
+            android:textStyle="bold"
+
+            android:layout_height="wrap_content"
+            android:text="File path" />
+
+        <TextView
+            android:id="@+id/textViewfilepath"
+            android:textSize="23sp"
+            android:layout_width="wrap_content"
+            android:textColor="@color/gray"
+            android:backgroundTint="@color/colorPrimary"
+            android:layout_height="wrap_content"
+            android:text="Choose file" />
+
+        <Button
+            android:id="@+id/buttonopengallery"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Choose file path"
+            android:textColor="@color/bluebarry"
+            />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:textSize="18sp"
+            android:paddingBottom="5sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Desciption" />
+
+        <EditText
+            android:id="@+id/editTextDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:backgroundTint="@color/bluebarry"
+            android:inputType="textMultiLine" />
+
+    </LinearLayout>
+
+</FrameLayout>

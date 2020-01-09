@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">CRM Audio Sound</string>
+    <string-array name="item">
+        <item>--Select Type--</item>
+        <item>Administrator</item>
+        <item>User</item>
+    </string-array>
+    <string name="bottom_home_text">Home</string>
+    <string name="bottom_notification_text">File</string>
+    <string name="bottom_ac_text">Sign</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="loginn">Login Page</string>
+    <string name="name">CRM Audio Sound</string>
+    <string name="save_pdf">Save PDF</string>
+    <string name="user_name">User Name:</string>
+    <string name="enter_client_names">Enter client names</string>
+    <string name="add_client">Add Client</string>
+    <string name="welcome_username">Welcome: Username</string>
+    <string name="username">Username:</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="email">Email:</string>
+    <string name="password">Password:</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="client_list">Client List</string>
+    <string name="enter_username1">Enter username</string>
+    <string name="enter_email_id">Enter email id</string>
+    <string name="enter_password1">Enter password</string>
+    <string name="add_user">Add User</string>
+    <string name="users">Users</string>
+    <string name="email2">Email</string>
+    <string name="name2">Name:</string>
+    <string name="name3">Name</string>
+    <string name="id">Id:</string>
+    <string name="id2">Id</string>
+    <string name="phone">Phone:</string>
+    <string name="phone2">Phone</string>
+    <string name="phone3">Phone2:</string>
+    <string name="phone4">Phone2</string>
+    <string name="nameName">Name:</string>
+    <string name="device">Device:</string>
+    <string name="device2">Device</string>
+    <string name="age">Age:</string>
+    <string name="age2">Age</string>
+    <string name="date">Date:</string>
+    <string name="date2">Date</string>
+    <string name="notes">Notes</string>
+    <string name="notes2">Notes:</string>
+    <string name="price">Price:</string>
+    <string name="price2">Price</string>
+</resources>
